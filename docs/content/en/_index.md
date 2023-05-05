@@ -30,9 +30,9 @@ If you're using K8ssandra v1.4.x, you may continue to do so. Or consider steppin
 | Kubernetes                  | **v1.17** | **v1.18** | **v1.19** | **v1.20** | **v1.21** | **v1.22** | **v1.23** | **v1.24** | **v1.25** | **v1.26** |
 |-----------------------------|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|
 | **K8ssandra v1.5**          |     ✅     |     ✅     |     ✅     |     ✅     |     ✅     |     ✅     |     ✅     |     ✅     |            |
-| **K8ssandra-operator v1.0** |     ✅     |     ✅     |     ✅     |     ✅     |     ✅     |     ✅     |     ✅     |     ✅     |     ✅     |     ✅     |
-| **K8ssandra-operator v1.1** |           |           |           |           |     ✅     |     ✅     |     ✅     |     ✅     |     ✅     |     ✅     |
-| **K8ssandra-operator v1.2** |           |           |           |           |     ✅     |     ✅     |     ✅     |     ✅     |     ✅     |     ✅     |
+| **K8ssandra-operator v1.0** |     ✅     |     ✅     |     ✅     |     ✅     |     ✅     |     ✅     |     ✅     |     ✅     |  untested  |  untested  |
+| **K8ssandra-operator v1.1** |           |           |           |           |     ✅     |     ✅     |     ✅     |     ✅     |  untested  |  untested  |
+| **K8ssandra-operator v1.2** |           |           |           |           |     ✅     |     ✅     |     ✅     |     ✅     |  untested  |  untested  |
 | **K8ssandra-operator v1.3** |           |           |           |           |     ✅     |     ✅     |     ✅     |     ✅     |     ✅     |     ✅     |
 | **K8ssandra-operator v1.4** |           |           |           |           |     ✅     |     ✅     |     ✅     |     ✅     |     ✅     |     ✅     |
 | **K8ssandra-operator v1.5** |           |           |           |           |     ✅     |     ✅     |     ✅     |     ✅     |     ✅     |     ✅     |
